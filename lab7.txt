@@ -1,3 +1,5 @@
 This is the first content in the file
 Adding second line
 Adding a third line
+Line added from bracnch1
+Line added from bracnch2 to create a conflict
