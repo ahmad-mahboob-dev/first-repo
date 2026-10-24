@@ -1,0 +1,6 @@
+__pycache__/
+CS-117 | Git & GitHub: Version Control and Collaborative Development
+CS-117 Introduction to ICT | Lab 11 | Student Copy
+*.pyc
+.venv/
+venv
